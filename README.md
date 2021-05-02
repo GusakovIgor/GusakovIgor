@@ -2,7 +2,7 @@
 
 ## Almost all projects in this repositories we made in first 2 semesters of my MIPT studies.
 
-## Most valuable and inetresting ones:
+## Small description of most valuable and inetresting ones:
  
  ### C projects:
   - В Pr.3-Soft_CPU реализован Soft процессор, в котором есть Stack, RAM и VideoMemory, он умеет обрабатывать программы на языке, схожем с языком ассемблера (например в папке Progs 
