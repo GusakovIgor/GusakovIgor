@@ -1,8 +1,7 @@
 # Myau!
 
-#### Almost all projects in this repositories we made in first 2 semesters of my MIPT studies.
-
-### Small description of most valuable and inetresting ones you can find here.
+#### All projects in this repositories were made as part of my MIPT programming courses.
+They laid foundation of my knowledge, small description of most valuable and inetresting ones you can find here.
  
  ### C projects:
   - Pr.3-Soft_CPU:
